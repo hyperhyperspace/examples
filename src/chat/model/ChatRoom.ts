@@ -9,7 +9,7 @@ import { Message } from './Message';
 // A simple, unmoderated chat room implemented as an H.H.S. object.
 
 
-// This chat run will automatically synchronize its local state with
+// This chat room will automatically synchronize its local state with
 // any remote instances when the method "startSync" is called.
 
 // The ChatRoom itself inherits from HashedObject, therefore it can
