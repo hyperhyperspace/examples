@@ -5,6 +5,7 @@ This repo contains examples of distributed data structures creating using the Hy
 You can see a simple, unmoderated chat room created using HHS in `src/chat`. To run, clone the repo and do
 
 `yarn build`
+
 `yarn start`
 
 if you're using windows, change the last to
